@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;color: indigo;
+    font-family: fantasy;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#camera{border: 4px dashed black;
+width: 350px;
+height: 300px;}
+
+.name_of_objects, #result_object_name, #result_object_accurecy{
+    color: darkcyan;
+}
